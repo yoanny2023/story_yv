@@ -1,0 +1,2 @@
+Learning version control with Git.
+inside chapter1 file
