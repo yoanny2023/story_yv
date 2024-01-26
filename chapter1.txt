@@ -1,2 +1,1 @@
-Learning version control with Git.
-inside chapter1 file
+Modify chapter 1 to have alien theme in alien-plot branch

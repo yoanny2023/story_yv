@@ -1,1 +1,1 @@
-inside the chapter2 file
+Modify chapter 2 to have alien theme in alien-plot branch
